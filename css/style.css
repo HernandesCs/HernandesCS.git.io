@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(196, 215, 255);
+}
+
+p{
+    color:black;
+    font-style: arial;
+    font-size: 16px ;
+    font-weight: bolder;
+}
+
+h3{
+    color:black;
+    text-decoration: underline;
+
+}
+
+li{
+    color:black;
+    font-style: normal ;
+    font-size: 15px;
+}
+
+a:hover{
+    color: blue;
+}
+
+.menu .button{
+    background-color: rgb(99, 142, 190);
+    border: none;
+    color: white;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+
+}
